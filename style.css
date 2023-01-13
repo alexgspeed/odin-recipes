@@ -1,0 +1,23 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li, h1{
+    text-align: justify;
+}
+
+h1{
+    background-color: aqua;
+    color: red;
+    font-size: 80px;
+}
+
+li{
+    background-color: black;
+    color: pink;
+}
+
+.italian{
+    color:red;
+    background-color: green;
+}
